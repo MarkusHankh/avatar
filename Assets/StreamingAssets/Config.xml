@@ -1,0 +1,20 @@
+<Config>
+	<Display>
+		<ScreenResolution x="1080" y="1920" />
+		<FullScreen active="false" />
+	</Display>
+	<Menu>
+		<Button1 Text="Computer und &#xD;&#xA; Büro"/>
+		<Button2 Text="TV und &#xD;&#xA; Audio"/>
+		<Button3 Text="Handy und &#xD;&#xA; Navigation"/>
+		<Button4 Text="Foto und &#xD;&#xA; Camcorder"/>
+	</Menu>
+	<Sources>
+		<Video1 Path="GuideVideo1.ogv" />
+		<Video2 Path="GuideVideo2.ogv" />
+		<Video3 Path="GuideVideo3.ogv" />
+		<Video4 Path="GuideVideo4.ogv" />
+		<AttractionLoop Path="9-16.ogv" />
+		<BackgroundImage Path="Background.png" />
+	</Sources>
+</Config>

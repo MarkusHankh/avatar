@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 22ea138043f5cae4499a427ec4ab13c6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: nerd
+    100002: //RootNode
+    100004: rig
+    100006: rig|joint_Char
+    100008: rig|joint_ClavicleLT
+    100010: rig|joint_ClavicleRT
+    100012: rig|joint_ElbowLT
+    100014: rig|joint_ElbowRT
+    100016: rig|joint_HandLT
+    100018: rig|joint_HandRT
+    100020: rig|joint_Head
+    100022: rig|joint_HipLT
+    100024: rig|joint_HipRT
+    100026: rig|joint_KneeLT
+    100028: rig|joint_KneeRT
+    100030: rig|joint_Neck
+    100032: rig|joint_Pelvis
+    100034: rig|joint_ShoulderLT
+    100036: rig|joint_ShoulderRT
+    100038: rig|joint_TorsoA
+    100040: rig|joint_TorsoC
+    400000: //RootNode
+    400002: nerd
+    400004: rig
+    400006: rig|joint_Char
+    400008: rig|joint_ClavicleLT
+    400010: rig|joint_ClavicleRT
+    400012: rig|joint_ElbowLT
+    400014: rig|joint_ElbowRT
+    400016: rig|joint_HandLT
+    400018: rig|joint_HandRT
+    400020: rig|joint_Head
+    400022: rig|joint_HipLT
+    400024: rig|joint_HipRT
+    400026: rig|joint_KneeLT
+    400028: rig|joint_KneeRT
+    400030: rig|joint_Neck
+    400032: rig|joint_Pelvis
+    400034: rig|joint_ShoulderLT
+    400036: rig|joint_ShoulderRT
+    400038: rig|joint_TorsoA
+    400040: rig|joint_TorsoC
+    4300000: nerd
+    9500000: //RootNode
+    13700000: nerd
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: rig|joint_Char
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_HipLT
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_HipRT
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_KneeLT
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_KneeRT
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_TorsoA
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_TorsoC
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_ClavicleLT
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_ClavicleRT
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_ShoulderLT
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_ShoulderRT
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_ElbowLT
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_ElbowRT
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_HandLT
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rig|joint_HandRT
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: nerd(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: nerd
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rig
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106888, y: 0, z: -0, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rig|joint_Char
+      position: {x: .0374673307, y: .329165876, z: 0}
+      rotation: {x: 8.34465027e-07, y: -3.64756273e-14, z: 1, w: 4.37113883e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rig|joint_Pelvis
+      position: {x: .0374687873, y: .297468156, z: .871717095}
+      rotation: {x: 4.70811955e-07, y: .809901536, z: .586565852, w: -7.82565166e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rig|joint_TorsoA
+      position: {x: 1.11022302e-15, y: .170437425, z: 1.11758709e-08}
+      rotation: {x: -.1331283, y: -1.25308347e-07, z: -1.09408171e-08, w: .991098821}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: rig|joint_TorsoC
+      position: {x: 1.55431223e-15, y: .164519429, z: -5.34294831e-16}
+      rotation: {x: -.175010085, y: 8.79846951e-08, z: -1.8378446e-10, w: .984566629}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rig|joint_Neck
+      position: {x: -8.8817842e-16, y: .245718896, z: 3.72529163e-09}
+      rotation: {x: .203232974, y: -1.37201496e-07, z: -8.38998915e-09, w: .979130447}
+      scale: {x: 1, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: rig|joint_Head
+      position: {x: 3.10862447e-15, y: .109032765, z: 3.72528763e-09}
+      rotation: {x: .0526774935, y: 2.86460306e-07, z: 5.4875775e-09, w: .998611569}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rig|joint_ClavicleLT
+      position: {x: -.0157960486, y: .202808455, z: .0458466709}
+      rotation: {x: -.452240169, y: .355418056, z: .464129299, w: .673602879}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: rig|joint_ShoulderLT
+      position: {x: -9.31322575e-09, y: .139518663, z: 7.89295882e-08}
+      rotation: {x: .0645098388, y: -.725451231, z: .150898114, w: .668422759}
+      scale: {x: .999999881, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: rig|joint_ElbowLT
+      position: {x: 6.56582415e-08, y: .282037109, z: -1.49011612e-08}
+      rotation: {x: .0468335524, y: .0878563151, z: -.0387609489, w: .994276345}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: rig|joint_HandLT
+      position: {x: -1.51339918e-07, y: .259460628, z: -9.31322575e-10}
+      rotation: {x: -.0895913169, y: -.722122073, z: .038307067, w: .684869111}
+      scale: {x: .99999994, y: .999999642, z: .999999821}
+      transformModified: 1
+    - name: rig|joint_ClavicleRT
+      position: {x: .0157960374, y: .202808455, z: .0458466709}
+      rotation: {x: -.452240199, y: -.355418086, z: -.464129299, w: .673602939}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: rig|joint_ShoulderRT
+      position: {x: -4.65661287e-09, y: .139518663, z: -3.81842256e-08}
+      rotation: {x: .064509742, y: .725451052, z: -.150898203, w: .668422759}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: rig|joint_ElbowRT
+      position: {x: -6.37955964e-08, y: .282037109, z: -1.11758709e-08}
+      rotation: {x: .0468336828, y: -.0878564045, z: .038760744, w: .994276404}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: rig|joint_HandRT
+      position: {x: 4.79631126e-08, y: .259460658, z: 1.39698386e-08}
+      rotation: {x: -.0895913169, y: .722122073, z: -.038307067, w: .684869111}
+      scale: {x: .999999881, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: rig|joint_HipLT
+      position: {x: -.101034366, y: .0670689642, z: .033487387}
+      rotation: {x: .990632057, y: .00470738253, z: -.000873272948, w: .136474371}
+      scale: {x: 1, y: 1, z: 1.00000143}
+      transformModified: 1
+    - name: rig|joint_KneeLT
+      position: {x: -8.96707064e-09, y: .424389631, z: 2.08819984e-09}
+      rotation: {x: .0306191146, y: .00133714767, z: .0238017607, w: .999246836}
+      scale: {x: .999999821, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: rig|joint_HipRT
+      position: {x: .101034351, y: .0670689717, z: .033487428}
+      rotation: {x: .990631998, y: -.0047074235, z: .000873429992, w: .136474714}
+      scale: {x: 1, y: 1.00000012, z: 1.00000155}
+      transformModified: 1
+    - name: rig|joint_KneeRT
+      position: {x: 1.17135315e-08, y: .42438969, z: 1.11685949e-09}
+      rotation: {x: .0306191165, y: -.00133714208, z: -.0238017645, w: .999246836}
+      scale: {x: .999999821, y: .99999994, z: .999999702}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
